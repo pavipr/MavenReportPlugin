@@ -30,12 +30,12 @@
 <!--        <url>https://svn.apache.org/viewvc/maven</url>-->
 <!--    </scm>-->
 
-<!--    <scm>-->
-<!--        <connection>scm:git:git:https://github.com/pavipr/MavenReportPlugin.git</connection>-->
-<!--        <developerConnection>scm:git:git@github.com:pavipr/pavipr.git</developerConnection>-->
-<!--        <url>https://github.com/pavipr/MavenReportPlugin.git</url>-->
-<!--        <tag>Report</tag>-->
-<!--    </scm>-->
+    <scm>
+        <connection>scm:git:git:https://github.com/pavipr/MavenReportPlugin.git</connection>
+        <developerConnection>scm:git:git@github.com:pavipr/pavipr.git</developerConnection>
+        <url>https://github.com/pavipr/MavenReportPlugin</url>
+        <tag>Report</tag>
+    </scm>
 
     <distributionManagement>
         <snapshotRepository>
