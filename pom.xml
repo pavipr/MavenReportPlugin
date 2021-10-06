@@ -32,9 +32,9 @@
 
     <scm>
         <connection>scm:git:git:https://github.com/pavipr/MavenReportPlugin.git</connection>
-        <developerConnection>scm:git:git@github.com:pavipr/pavipr.git</developerConnection>
+        <developerConnection>scm:git:ssh://github.com:pavipr/MavenReportPlugin.git</developerConnection>
         <url>https://github.com/pavipr/MavenReportPlugin</url>
-        <tag>Report</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
